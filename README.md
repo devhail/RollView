@@ -1,6 +1,7 @@
 # HelenNewsRollView
 帮你快速的把消息滚动起来！！！
 <br>
+<br>
   让您心动❤️的点
 <br>
   1.可以自定义用来滚动的view
