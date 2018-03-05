@@ -13,7 +13,7 @@
 2.一句代码让消息滚动起来
 <br>
 2.1初始化
-<br>
+<br><br>
 - (instancetype)initWithContentView1:(UIView *)contentView1;
 <br>
 - (instancetype)initWithContentView1:(UIView *)contentView1 contentView2:(UIView *)contentView2;
