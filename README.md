@@ -2,6 +2,10 @@
 帮你快速的把消息滚动起来！
 ==================================================
 
+效果展示
+---------------------------------------------
+![](https://github.com/helenluo/RollView/raw/master/HelenNewsRollView/images/xiaoguo.png)
+
 1.让您心动❤️的点
 ---------------------------------------------
 ### 1.1可以自定义用来滚动的view. 
@@ -20,6 +24,4 @@
 ### 2.3通过block回调方式对自定义view进行数据设置.
 @property (copy, nonatomic) void(^setItemInfoBlock)(UIView *view,NSInteger index);
 ### 2.4通过block回调方式告知当前被点击的位置.
-@property (copy, nonatomic) void(^itemOnClickBlock)(NSInteger index);
-
-![](https://github.com/helenluo/RollView/raw/master/HelenNewsRollView/images/xiaoguo.png) 
+@property (copy, nonatomic) void(^itemOnClickBlock)(NSInteger index); 
