@@ -11,9 +11,6 @@
 
 <br><br>
 2.一句代码让消息滚动起来
-- (instancetype)initWithContentView1:(UIView *)contentView1;
-<br>
-- (instancetype)initWithContentView1:(UIView *)contentView1 contentView2:(UIView *)contentView2;
 <br>
 2.2开始/暂停动画
 <br>
