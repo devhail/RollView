@@ -21,11 +21,11 @@
 - (void)stopAnimation;
 <br>
 - (void)animationWithItems:(NSArray *)items;
-<br>
+<br><br>
 2.3通过block回调方式对自定义view进行数据设置
 <br>
 @property (copy, nonatomic) void(^setItemInfoBlock)(UIView *view,NSInteger index);
-<br>
+<br><br>
 2.4通过block回调方式告知当前被点击的位置
 <br>
 @property (copy, nonatomic) void(^itemOnClickBlock)(NSInteger index); 
