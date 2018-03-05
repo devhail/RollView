@@ -5,16 +5,14 @@
 <br>
 1.让您心动❤️的点
 -----
-<br><br>
-1.1可以自定义用来滚动的view。
+### 1.1可以自定义用来滚动的view。
 <br> 
-1.2通过block回调方式对自定义view进行数据设置。
+### 1.2通过block回调方式对自定义view进行数据设置。
 <br>
-1.3通过block回调方式告知当前被点击的位置。
+### 1.3通过block回调方式告知当前被点击的位置。
 <br><br>
 2.一句代码让消息滚动起来
 ------
-<br>
 2.1初始化
 - (instancetype)initWithContentView1:(UIView *)contentView1;
 - (instancetype)initWithContentView1:(UIView *)contentView1 contentView2:(UIView *)contentView2;
