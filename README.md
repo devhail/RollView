@@ -1,7 +1,7 @@
 # HelenNewsRollView
 帮你快速的把消息滚动起来！
 ==================================================
-![github](http://github.com/xiaoguo.png "github")
+![github](https://github.com/xiaoguo.png "github")
 
 1.让您心动❤️的点
 ---------------------------------------------
