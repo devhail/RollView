@@ -16,7 +16,6 @@
 - (instancetype)initWithContentView1:(UIView *)contentView1 contentView2:(UIView *)contentView2;
 ### 2.2开始/暂停动画.<br>
 - (void)stopAnimation;
-<br>
 - (void)animationWithItems:(NSArray *)items;
 ### 2.3通过block回调方式对自定义view进行数据设置.<br>
 @property (copy, nonatomic) void(^setItemInfoBlock)(UIView *view,NSInteger index);
