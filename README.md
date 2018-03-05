@@ -23,7 +23,6 @@
 ### 2.4通过block回调方式告知当前被点击的位置.
 @property (copy, nonatomic) void(^itemOnClickBlock)(NSInteger index); 
 
-<br>
-    tentView1:(UIView *)contentView1;
-    tentView1:(UIView *)contentView1;
-    tentView1:(UIView *)contentView1;
+        tentView1:(UIView *)contentView1;
+        tentView1:(UIView *)contentView1;
+        tentView1:(UIView *)contentView1;
