@@ -48,7 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		793133B5204D357F007C0C5A /* xiaoguo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xiaoguo.png; sourceTree = "<group>"; };
+		793133B6204D3CFF007C0C5A /* xg.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = xg.gif; sourceTree = "<group>"; };
 		7935CEAA201091E400F95EC5 /* HelenNewsRollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelenNewsRollView.h; sourceTree = "<group>"; };
 		7935CEAB201091E400F95EC5 /* HelenNewsRollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelenNewsRollView.m; sourceTree = "<group>"; };
 		79D9A3AB200D928C006F88C6 /* RZHomeView_index.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZHomeView_index.h; sourceTree = "<group>"; };
@@ -125,7 +125,7 @@
 		793133B4204D3573007C0C5A /* images */ = {
 			isa = PBXGroup;
 			children = (
-				793133B5204D357F007C0C5A /* xiaoguo.png */,
+				793133B6204D3CFF007C0C5A /* xg.gif */,
 			);
 			path = images;
 			sourceTree = "<group>";

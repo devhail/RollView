@@ -4,7 +4,7 @@
 
 效果展示
 ---------------------------------------------
-![](https://github.com/helenluo/RollView/raw/master/HelenNewsRollView/images/xiaoguo.png)
+![](https://github.com/helenluo/RollView/raw/master/HelenNewsRollView/images/xg.gif)
 
 1.让您心动❤️的点
 ---------------------------------------------
