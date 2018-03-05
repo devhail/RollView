@@ -104,6 +104,7 @@ typedef NS_ENUM(NSUInteger,HelenNewsRollViewPosition) {
 //设置需要滚动的内容（可多条）
 - (void)animationWithItems:(NSArray *)items
 {
+    if(items.count < 1) return;
     _contentsAry = items;
     !_setItemInfoBlock ? :_setItemInfoBlock(_contentView1,0);
     [self startAnimationWithView:_contentView1];
