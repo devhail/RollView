@@ -1,7 +1,6 @@
 # HelenNewsRollView
 帮你快速的把消息滚动起来！
 ==================================================
-![](https://github.com/helenluo/RollView/HelenNewsRollView/raw/master/HelenNewsRollView/images/xiaoguo.png) 
 
 1.让您心动❤️的点
 ---------------------------------------------
@@ -22,3 +21,5 @@
 @property (copy, nonatomic) void(^setItemInfoBlock)(UIView *view,NSInteger index);
 ### 2.4通过block回调方式告知当前被点击的位置.
 @property (copy, nonatomic) void(^itemOnClickBlock)(NSInteger index);
+
+![](https://github.com/helenluo/RollView/raw/master/images/xiaoguo.png) 
