@@ -48,7 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		793133B3204D3342007C0C5A /* xiaoguo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = xiaoguo.png; path = Assets.xcassets/xiaoguo.imageset/xiaoguo.png; sourceTree = "<group>"; };
+		793133B5204D357F007C0C5A /* xiaoguo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xiaoguo.png; sourceTree = "<group>"; };
 		7935CEAA201091E400F95EC5 /* HelenNewsRollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelenNewsRollView.h; sourceTree = "<group>"; };
 		7935CEAB201091E400F95EC5 /* HelenNewsRollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelenNewsRollView.m; sourceTree = "<group>"; };
 		79D9A3AB200D928C006F88C6 /* RZHomeView_index.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RZHomeView_index.h; sourceTree = "<group>"; };
@@ -122,6 +122,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		793133B4204D3573007C0C5A /* images */ = {
+			isa = PBXGroup;
+			children = (
+				793133B5204D357F007C0C5A /* xiaoguo.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		7935CEA9201091E400F95EC5 /* HelenNewsRollView */ = {
 			isa = PBXGroup;
 			children = (
@@ -187,7 +195,7 @@
 		79DB41FA1DB9F3F500F2F4C6 /* HelenNewsRollView */ = {
 			isa = PBXGroup;
 			children = (
-				793133B3204D3342007C0C5A /* xiaoguo.png */,
+				793133B4204D3573007C0C5A /* images */,
 				7935CEA9201091E400F95EC5 /* HelenNewsRollView */,
 				79D9A3AE200D92D5006F88C6 /* Masonry */,
 				79DB41FE1DB9F3F500F2F4C6 /* AppDelegate.h */,
