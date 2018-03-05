@@ -22,4 +22,4 @@
 ### 2.4通过block回调方式告知当前被点击的位置.
 @property (copy, nonatomic) void(^itemOnClickBlock)(NSInteger index);
 
-![](https://github.com/helenluo/RollView/HelenNewsRollView/raw/master/images/xiaoguo.png) 
+![](https://github.com/helenluo/RollView/raw/master/HelenNewsRollView/images/xiaoguo.png) 
