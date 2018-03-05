@@ -20,11 +20,15 @@
 - (instancetype)initWithContentView1:(UIView *)contentView1 contentView2:(UIView *)contentView2;
 <br>
 2.2开始/暂停动画
+<br>
 - (void)stopAnimation;
+<br>
 - (void)animationWithItems:(NSArray *)items;
 <br>
 2.3通过block回调方式对自定义view进行数据设置
+<br>
 @property (copy, nonatomic) void(^setItemInfoBlock)(UIView *view,NSInteger index);
 <br>
 2.4通过block回调方式告知当前被点击的位置
+<br>
 @property (copy, nonatomic) void(^itemOnClickBlock)(NSInteger index); 
